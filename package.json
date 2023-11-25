@@ -9,7 +9,7 @@
         "start": "next start",
         "lint": "next lint",
         "export": "next export",
-        "sitemap": "next-sitemap --config seo.config.js"
+        "sitemap": "next-sitemap"
     },
     "dependencies": {
         "clsx": "^1.2.1",

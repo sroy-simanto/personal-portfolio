@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://simanto-roy.vercel.app
+
+# Sitemaps
+Sitemap: https://simanto-roy.vercel.app/sitemap.xml
