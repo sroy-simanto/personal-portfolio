@@ -11,6 +11,8 @@ export default function Document() {
                     rel="stylesheet"
                 />
                 <Script src="/theme.js" strategy="beforeInteractive" />
+                {/* GOOGLE OWNERSHIP VERIFY CODE */}
+                <meta name="google-site-verification" content="BUcI-lq1acHxDtFnBu1arv--jYETO1136FJ5-2OqrVU" />
             </Head>
             <body className="text-lg text-gray-600 dark:text-neutral-400 dark:bg-neutral-900 relative min-h-screen">
                 <Main />
