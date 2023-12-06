@@ -27,9 +27,6 @@ module.exports = {
                 userAgent: 'black-listed-bot',
                 disallow: ['/components', '/styles'],
             },
-        ],
-        additionalSitemaps: [
-            'https://simanto-roy.vercel.app/my-custom-sitemap-1.xml',
-        ],
+        ]
     },
 }

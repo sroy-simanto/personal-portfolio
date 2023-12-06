@@ -22,4 +22,3 @@ Host: https://simanto-roy.vercel.app/
 
 # Sitemaps
 Sitemap: https://simanto-roy.vercel.app/sitemap.xml
-Sitemap: https://simanto-roy.vercel.app/my-custom-sitemap-1.xml
