@@ -1,0 +1,25 @@
+# *
+User-agent: *
+Allow: /
+
+# test-bot
+User-agent: test-bot
+Allow: /data/about.js
+Allow: /data/home.js
+Allow: /data/projects.js
+Allow: /data/services.js
+Allow: /data/testimonials.js
+Allow: /data/common/socialLinks.js
+Allow: /seo.config.js
+
+# black-listed-bot
+User-agent: black-listed-bot
+Disallow: /components
+Disallow: /styles
+
+# Host
+Host: https://simanto-roy.vercel.app/
+
+# Sitemaps
+Sitemap: https://simanto-roy.vercel.app/sitemap.xml
+Sitemap: https://simanto-roy.vercel.app/my-custom-sitemap-1.xml

@@ -1,48 +1,5 @@
-<root>
-
-    <defaultSeo>
-    <title>Simanto Roy - Fullstack Developer</title>
-    <description>Hey, I am a professional fullstack web developer with a passion for creating beautiful and functional websites. I have been working with web technologies for over last four years.</description>
-    <canonical>https://simanto-roy.vercel.app</canonical>
-    <themeColor>#3b82f6</themeColor>
-    <openGraph>
-        <title>Simanto Roy - Fullstack Developer</title>
-        <description>Hey, I am a professional fullstack web developer with a passion for creating beautiful and functional websites. I have been working with web technologies for over last four years.</description>
-        <url>https://simanto-roy.vercel.app</url>
-        <type>profile</type>
-        <profile>
-            <firstName>Simanto</firstName>
-            <lastName>Roy</lastName>
-            <username>simanto-sroy</username>
-            <gender>male</gender>
-        </profile>
-        <images>
-            <url>https://simanto-roy.vercel.app/assets/simanto-roy.jpg</url>
-            <width>360</width>
-            <height>360</height>
-            <alt>Simanto Roy</alt>
-        </images>
-    </openGraph>
-</defaultSeo>
-<jsonLd>
-    <socialProfileJsonLd>
-        <type>Person</type>
-        <name>Simanto Roy</name>
-        <url>https://simanto-roy.vercel.app</url>
-        <sameAs>https://www.facebook.com/cs.sroy.simanto/</sameAs>
-        <sameAs>https://www.instagram.com/sroy_simanto/</sameAs>
-        <sameAs>https://twitter.com/simanto_sroy</sameAs>
-        <sameAs>https://linkedin.com/in/simanto-sroy</sameAs>
-    </socialProfileJsonLd>
-    <webpageJsonLd>
-        <description>What does the fox say?</description>
-        <id>https://simanto-roy.vercel.app/#home</id>
-        <lastReviewed>2023-11-25T04:06:22.556Z</lastReviewed>
-        <reviewedBy>
-            <type>Person</type>
-            <name>Simanto Roy</name>
-        </reviewedBy>
-    </webpageJsonLd>
-</jsonLd>
-
-</root>
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap><loc>https://simanto-roy.vercel.app/sitemap-0.xml</loc></sitemap>
+<sitemap><loc>https://simanto-roy.vercel.app/my-custom-sitemap-1.xml</loc></sitemap>
+</sitemapindex>
