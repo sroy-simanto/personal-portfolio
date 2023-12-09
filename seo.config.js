@@ -33,7 +33,7 @@ const seo = {
             name: 'Simanto Roy',
             url: 'https://simanto-roy.vercel.app',
             sameAs: [
-                'https://www.facebook.com/roy.simanto.sroy//',
+                'https://www.facebook.com/roy.simanto.sroy/',
                 'https://www.instagram.com/sroy_simanto/',
                 'https://twitter.com/simanto_sroy',
                 'https://linkedin.com/in/simanto-sroy'
