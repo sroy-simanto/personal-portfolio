@@ -30,7 +30,7 @@ jobs:
                   NEXT_PUBLIC_GOOGLE_ANALYTICS_ID: ${{ secrets.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID }}
 
             - name: Deploy
-              uses: peaceiris/actions-gh-pages@v3
+              uses: actions/deploy-pages
               with:
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  github_token: ${{ secrets.TOKEN }}
                   publish_dir: ./public
